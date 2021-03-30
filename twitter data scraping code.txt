@@ -1,0 +1,1 @@
+python GetOldTweets3 --querysearch "corona OR coronavirus OR covid-19 OR covid19 OR covid OR pandemic OR lockdown" --lang en --near "Nagpur,India" --within 1500km --since 2020-04-20 --until 2020-04-22
